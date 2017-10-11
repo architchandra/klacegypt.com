@@ -1,0 +1,20 @@
+*  {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+html, body  {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+.legal-container  {
+  margin: 10%;
+  line-height: 1.8;
+}
+
+.legal-back-btn-container  {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
